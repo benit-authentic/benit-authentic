@@ -65,19 +65,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benit-authentic&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benit-authentic&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benit-authentic&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🌟 Au-delà du code
 
 Quand je ne code pas, vous me trouverez en train de :
