@@ -65,6 +65,15 @@
 
 ---
 
+## 🎵 Ma vibe du moment
+<div align="center">
+  <a href="https://open.spotify.com/user/31qeqpfa3kqnnp4572eoqaucawtu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qeqpfa3kqnnp4572eoqaucawtu&count=5&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
+
+---
+
 ## 🌟 Au-delà du code
 
 Quand je ne code pas, vous me trouverez en train de :
@@ -82,6 +91,7 @@ Quand je ne code pas, vous me trouverez en train de :
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benitedouhsewa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tg.linkedin.com/in/b%C3%A9nit-edouh-sewa-797b14268)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benit-authentic)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22892688509)
 
 **🔎 Disponible pour freelance, stage ou emploi**
 
