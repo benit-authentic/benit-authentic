@@ -31,9 +31,9 @@
 
 ## 💼 Expériences professionnelles
 
-- 🧑🏽‍💻 **Stage Développeur Backend** – *CMDB CONSULTING* (Sept. – Nov. 2024)  
+- 🧑🏽‍💻 **Développeur Backend** – *CMDB CONSULTING* (Sept. – Nov. 2024)  
   *Conception et développement d'un backend de gestion commerciale en Spring Boot*
-- 👨🏽‍💻 **Stage Développeur Web** – *DTECH GROUP* (Oct. – Déc. 2023)
+- 👨🏽‍💻 **Développeur Web** – *DTECH GROUP* (Oct. – Déc. 2023)
 
 ---
 
