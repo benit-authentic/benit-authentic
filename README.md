@@ -22,7 +22,6 @@
 
 ## 🚀 Ce que je fais actuellement
 
-- 🔧 Je travaille sur une **application de livraison multi-acteurs en ligne** (Flutter/Node.js)
 - 🧠 J'explore le **prompt engineering** et les possibilités de l'IA dans les apps modernes
 - 🌱 **J'apprends** : Python, IA et son intégration dans les applications
 - 🎯 **Objectif** : Devenir développeur fullstack confirmé et explorer l'IA
