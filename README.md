@@ -9,7 +9,7 @@
 
 ## 👨🏽‍💻 À propos de moi
 
-- 💼 **Développeur fullstack** web & mobile basé à **Kara, Togo** 🇹🇬
+- 💼 **Développeur fullstack** web & mobile basé à **Lomé, Togo** 🇹🇬
 - 👔 **Chief Technology Officer (CTO)** chez **KBS-DIGITAL Sarl**
 - 🤝 **Vice-président et cofondateur** de la communauté **KARA Digital**
 - 🔄 En formation continue sur **Python** et **l'intégration de l'IA dans les applications**
